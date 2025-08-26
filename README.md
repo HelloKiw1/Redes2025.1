@@ -8,46 +8,47 @@ Aqui estão reunidos os **conteúdos das apresentações, exercícios e trabalho
 ## 📂 Conteúdo
 
 ### 🔹 Capítulo 1 - Introdução
-- [Exercícios do Capítulo 1](./capitulo1/exercicios.md)
-- [Laboratório - Wireshark](./capitulo1/wireshark.md)
+- Exercícios do Capítulo 1
+- Laboratório - Wireshark
 
 ---
 
 ### 🔹 Capítulo 2 - Camada de Aplicação
-- [Exercícios do Capítulo 2](./capitulo2/exercicios.md)
+- Exercícios do Capítulo 2
 
 ---
 
 ### 🔹 Capítulo 3 - Camada de Transporte
-- [Exercícios do Capítulo 3](./capitulo3/exercicios.md)
+- Exercícios do Capítulo 3
 
 ---
 
 ### 🔹 Capítulo 4 - Camada de Redes
-- [Laboratório - Protocolo IP](./capitulo4/protocolo-ip.md)
-- [Laboratório - Plano de Dados](./capitulo4/plano-dados.md)
-- [Laboratório - DHCP](./capitulo4/dhcp.md)
-- [Laboratório - NAT](./capitulo4/nat.md)
-- [Laboratório - ICMP](./capitulo4/icmp.md)
-- [Laboratório - Ethernet e ARP](./capitulo4/ethernet-arp.md)
-- [Laboratório - Wi-Fi 802.11](./capitulo4/wifi-80211.md)
-- [Laboratório - Wi-Fi 802.11 + TLS/SSL](./capitulo4/wifi-80211-tls-ssl.md)
+- Laboratório - Protocolo IP
+- Laboratório - Plano de Dados
+- Laboratório - DHCP
+- Laboratório - NAT
+- Laboratório - ICMP
+- Laboratório - Ethernet e ARP
+- Laboratório - Wi-Fi 802.11
+- Laboratório - Wi-Fi 802.11 + TLS/SSL
 
 #### 🎞️ Animações
-- [Controle de fluxo](./capitulo4/animacoes/fluxo.md)
-- [Controle de congestionamento TCP](./capitulo4/animacoes/congestionamento-tcp.md)
-- [CSMA/CD](./capitulo4/animacoes/csma-cd.md)
-- [802.11 CSMA/CA - sem terminais ocultos](./capitulo4/animacoes/csma-ca-sem.md)
-- [802.11 CSMA/CA - com terminais ocultos](./capitulo4/animacoes/csma-ca-com.md)
-
+- Controle de fluxo
+- Controle de congestionamento TCP
+- CSMA/CD
+- 802.11 CSMA/CA - sem terminais ocultos
+- 802.11 CSMA/CA - com terminais ocultos
 ---
 
 ### 🔹 Capítulos 5, 6 e 7 - Apresentações
-- [Apresentações dos Laboratórios](./capitulos5-7/apresentacoes.md)
+- Apresentações dos Laboratórios
 
 ---
 
-
+## Aluno Resposaveis
+- [HelloKiw1](https://github.com/HelloKiw1)
+- [Murilo]
 ---
 
 ## 👨‍🏫 Sobre
